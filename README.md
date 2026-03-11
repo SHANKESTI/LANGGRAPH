@@ -101,4 +101,3 @@ It demonstrates practical knowledge of:
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star.
